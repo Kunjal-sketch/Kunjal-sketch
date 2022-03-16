@@ -22,19 +22,20 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kunjal-sketch&layout=compact&theme=radical)
 
 ***
-### Languages and Tools   
+### Languages  
 <img align="left" alt="Python | Logo" height="40px" target="__blank" src="https://img.icons8.com/color/48/000000/python--v1.png" />  
 <img align="left" alt="C++ | Logo" height="40px" target="__blank" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />
 <img align="left" alt="VsCode | logo" height="40px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-visual-studio-code-is-a-source-code-editor-developed-by-microsoft-logo-color-tal-revivo.png"/>
 <img align="left" alt="Html | Logo" height="40px" target="__blank" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
 <img align="left" alt="Css | Logo" height="40px" target="https://icons8.com/icons/set/gmail" src="https://img.icons8.com/color/48/000000/css3.png"/>
 <img align="left" alt="Git | Logo" height="40px" target="__blank" src="https://img.icons8.com/color/48/000000/git.png"/>
-<img align="left" alt="Github | Logo" height="40px" target="__blank" src="https://img.icons8.com/glyph-neue/64/000000/github.png"/>
-<img src="https://img.icons8.com/color/48/000000/flutter.png"/>
-<img src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
-<br>
+<img align="left" alt="Github | Logo" height="40px" target="__blank" src="https://img.icons8.com/glyph-neue/64/000000/github.png"/><br><br>
 
-<br>  <br>
+### Tools
+<img src="https://img.icons8.com/color/48/000000/flutter.png"/><img src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
+
+
+<br><br>
 ###  Connect with me : <br> <br>
 <img src="https://img.icons8.com/ios-filled/50/000000/gmail-new.png"/>
 
@@ -42,3 +43,7 @@ Here are some ideas to get you started:
 
 <img align="left" alt="Kunjal Ramteke | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 <img src="https://img.icons8.com/ios-glyphs/30/000000/linkedin.png"/>
+
+### Support
+<a href='https://www.buymeacoffee.com/kaiwalya' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png' border='0' alt='Support Kaiwalya on buymecoffee' /></a><br>
+<img src="https://img.icons8.com/color/48/000000/music-robot.png"/>
