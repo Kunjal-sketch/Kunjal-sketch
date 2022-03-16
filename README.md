@@ -5,14 +5,17 @@
 
 Here are some ideas to get you started:
 - 👋 Hi, I’m **KUNJAL RAMTEKE** <br>
-- 👀 I’m interested **UI/UX**
+- 👀 I’m interested in**UI/UX**
 - 🔭 I’m currently working on web dev & python
 - 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on 
+- 👯 I’m looking to collaborate on innovative ideas
 - 🤔 I’m looking for help with python development
 - 💬 Ask me about UI/UX in figma
 - 📫 How to reach me: Gmail-kunjal141@gmail.com |LinkedIn-https://www.linkedin.com/in/kunjal -ramteke-b8bb501b5|Twitter-@kunjal141   
 - 😄 Happy learning
+### Kunjal's  contributing Graph
+<img src="https://activity-graph.herokuapp.com/graph?username=Kunjal-sketch&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
+
 
 # Github Stats
 
