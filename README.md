@@ -29,11 +29,15 @@ Here are some ideas to get you started:
 <img align="left" alt="Css | Logo" height="40px" target="https://icons8.com/icons/set/gmail" src="https://img.icons8.com/color/48/000000/css3.png"/>
 <img align="left" alt="Git | Logo" height="40px" target="__blank" src="https://img.icons8.com/color/48/000000/git.png"/>
 <img align="left" alt="Github | Logo" height="40px" target="__blank" src="https://img.icons8.com/glyph-neue/64/000000/github.png"/>
-<img align="left" alt="Flutter | Logo" height="40px" target="__blank" src="https://img.icons8.com/color/48/000000/react-native.png"/>
-<img align="left" alt="Figma | Logo" height="40px" target="__blank" src="https://img.icons8.com/color/48/000000/npm.png"/>
+<img src="https://img.icons8.com/color/48/000000/flutter.png"/>
+<img src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
 <br>
 
 <br>  <br>
 ###  Connect with me : <br> <br>
-[<img align="left" alt="kunjal141 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />](https://www.instagram.com/kunjal141/)
-[<img align="left" alt="Kunjal Ramteke | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/kunjal141)
+<img src="https://img.icons8.com/ios-filled/50/000000/gmail-new.png"/>
+
+<img align="left" alt="Kunjal Ramteke | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />
+
+<img align="left" alt="Kunjal Ramteke | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<img src="https://img.icons8.com/ios-glyphs/30/000000/linkedin.png"/>
