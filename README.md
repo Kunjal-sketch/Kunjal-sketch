@@ -43,7 +43,6 @@ Here are some ideas to get you started:
 <img src="https://img.icons8.com/ios-filled/50/000000/gmail-new.png"/>
 
 <img align="left" alt="Kunjal Ramteke | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />
-
 <img align="left" alt="Kunjal Ramteke | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 <img src="https://img.icons8.com/ios-glyphs/30/000000/linkedin.png"/>
 
