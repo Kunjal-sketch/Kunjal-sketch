@@ -7,7 +7,6 @@ Here are some ideas to get you started:
 - 👋 Hi, I’m **KUNJAL RAMTEKE** <br>
 - 👀 I’m interested in**UI/UX**
 - 🔭 I’m currently working on web dev & python
-- 🌱 I’m currently learning ML
 - 👯 I’m looking to collaborate on innovative ideas
 - 🤔 I’m looking for help with python and java development
 - 💬 Ask me about UI/UX in figma
