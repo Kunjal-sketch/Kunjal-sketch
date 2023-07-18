@@ -6,9 +6,10 @@
 Here are some ideas to get you started:
 - 👋 Hi, I’m **KUNJAL RAMTEKE** <br>
 - 👀 I’m a **UI/UX** designer
-- 🔭 I’m currently working on web dev & python
+- 🔭 I’m currently working on web dev
+  🔭 I’m currently improving my DSA (JAVA)
 - 👯 I’m looking to collaborate on innovative ideas
-- 🤔 I’m looking for help with python and java development
+- 🤔 I’m looking for help with web dev
 - 💬 Ask me about UI/UX in figma
 - 📫 How to reach me: Gmail-kunjal141@gmail.com |LinkedIn-https://www.linkedin.com/in/kunjal -ramteke-b8bb501b5|Twitter-@kunjal141   
 - 😄 Happy learning
