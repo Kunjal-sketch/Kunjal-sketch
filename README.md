@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 - 👋 Hi, I’m **KUNJAL RAMTEKE** <br>
-- 👀 I’m interested in**UI/UX**
+- 👀 I’m a**UI/UX** designer
 - 🔭 I’m currently working on web dev & python
 - 👯 I’m looking to collaborate on innovative ideas
 - 🤔 I’m looking for help with python and java development
