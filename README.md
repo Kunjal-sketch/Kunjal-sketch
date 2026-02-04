@@ -26,7 +26,7 @@
 <img align="left" alt="Github | Logo" height="40px" target="__blank" src="https://img.icons8.com/glyph-neue/64/000000/github.png"/><br><br>
 
 ### Tools
-<img src="https://img.icons8.com/color/48/000000/flutter.png"/><img src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
+<img src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
 
 
 <br><br>
