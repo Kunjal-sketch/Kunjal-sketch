@@ -16,14 +16,7 @@
 - Models: Random Forest, XGBoost
 - Achieved high accuracy with reduced false alarms  
 
-
-# Github Stats
-
-![Suraj's github stats](https://github-readme-stats.vercel.app/api?username=Kunjal-sketch&show_icons=true&theme=radical)
-
-# Top Languages 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kunjal-sketch&layout=compact&theme=radical)
-
+ 
 ***
 ### Languages  
 <img align="left" alt="Python | Logo" height="40px" target="__blank" src="https://img.icons8.com/color/48/000000/python--v1.png" />  
